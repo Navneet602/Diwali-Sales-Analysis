@@ -1,8 +1,8 @@
 # Diwali-Sales-Analysis
-
+DESCRIPTION:
 This repository contains data analysis scripts and visualizations for Diwali sales data. The analysis aims to provide insights into sales trends, customer demographics, and product performance during the festive season.
 
-Certainly! Here's a revised description of the Diwali sales analysis project, making it sound less like a chatbot-generated response:
+In this project, I conducted a comprehensive analysis of Diwali sales data to gain insights into sales trends, customer behavior, and product performance during the festive season. Here's an overview of what I have done:
 
 ---
 
